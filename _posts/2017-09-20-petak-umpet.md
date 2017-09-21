@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Petak Umpet"
-date:   2017-09-21 19:43:27 +0700
+date:   2017-09-21 05:00:00 +0700
 categories: permainan
 image : assets/images/2017-09-21-petak-umpet.png
 ---
@@ -11,11 +11,11 @@ Permainan ini bisa melatih anak beradu kecerdasan, kecermatan, dan kejelian. Ana
 ### Pemain
 
 Jumlah pemain : 2 orang atau lebih
+Umur : semua umur
 
 ### Alat bermain
 
--
-
+Sebidang tembok dan lingkungan yang dapat dipakai untuk saling bersembunyi.
 
 ### Cara bermain
 
@@ -43,7 +43,7 @@ Jumlah pemain : 2 orang atau lebih
 
 -
 
-### Variasi
+### Variasi / Nama lain
 
 - Bancakan
 
