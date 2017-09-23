@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Kontributor
-permalink: /contributors/
+permalink: /authors/
 ---
+
 
 - Endi Aras Agus Riyono
 - Sintia Ramadhani

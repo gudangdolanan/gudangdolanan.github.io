@@ -10,8 +10,8 @@ Permainan ini bisa melatih anak beradu kecerdasan, kecermatan, dan kejelian. Ana
 
 ### Pemain
 
-Jumlah pemain : 2 orang atau lebih
-Umur : semua umur
+- Jumlah pemain : 2 orang atau lebih
+- Umur : semua umur
 
 ### Alat bermain
 
@@ -41,12 +41,11 @@ Sebidang tembok dan lingkungan yang dapat dipakai untuk saling bersembunyi.
 
 ### Video
 
--
+{% youtube "https://www.youtube.com/watch?v=AdiDwP4wcbI" %}
 
 ### Variasi / Nama lain
 
 - Bancakan
 
-### Referensi
+	Bancakan sangat mirip dengan petak umpet. Bedanya, Bancakan menggunakan susunan lempengan batu sebagai pengganti pohon/tembok untuk menutup mata. Lingkaran batu tersebut nantinya disusun di dalam sebuah lingkaran kecil (digambar di tanah). Alih-alih menutup mata pada pohon/tembok dan menghitung 1 sampai 10, pemain yang *jadi* harus menyusun ulang tumpukan batu tersebut. Setelah semua batu selesai tersusun, pemain *jadi* dapat mulai mencari kawan-kawannya. Saat pemain *jadi* mengetahui persembunyian pemain lain, pemain *jadi* menyebut nama pemain tersebut dan berusaha menginjak garis lingkaran. Sementara pemain lain yang sudah diketahui lokasi persembunyiannya berusaha menghancurkan susunan batu tersebut.
 
-- https://id.wikipedia.org/wiki/Petak_umpet

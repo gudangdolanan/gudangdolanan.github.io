@@ -17,7 +17,7 @@ title: Gudang Dolanan
 permalink: /:categories/:title.html
 email: gudangdolanan.cloud@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Gudang Dolanan bertujuan membangun  kembali permainan anak-anak dan permainan tradisional.
+  Situs ini dibangun untuk mendokumentasikan permainan anak-anak dan permainan tradisional, serta mengimbangi derasnya permainan-permainan digital yang mendominasi anak-anak masa kini.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  gudangdolanan

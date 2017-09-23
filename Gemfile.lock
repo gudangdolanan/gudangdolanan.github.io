@@ -24,6 +24,8 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
+    jekyll-youtube (1.0.0)
+      jekyll
     jekyll_pages_api (0.1.6)
       htmlentities (~> 4.3)
       jekyll (>= 2.0, < 4.0)
@@ -55,6 +57,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (= 3.5.2)
   jekyll-feed (~> 0.6)
+  jekyll-youtube
   jekyll_pages_api
   minima (~> 2.0)
   tzinfo-data
