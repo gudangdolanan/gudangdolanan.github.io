@@ -1,15 +1,5 @@
-#!/bin/sh
+#!/usr/bin/env bash
+set -e # halt script on error
 
-set -e
-
-script/build
-
-if test -e "./_site/index.html";then
-  echo "It builds!"
-  rm -Rf _site
-else
-  echo "Huh. That's odd. The example site doesn't seem to build."
-  exit 1
-fi
-
-gem build minima.gemspec
+bundle exec jekyll build
+#bundle exec htmlproofer --alt-ignore https://avatars0.githubusercontent.com/u/17040767 ./_site
