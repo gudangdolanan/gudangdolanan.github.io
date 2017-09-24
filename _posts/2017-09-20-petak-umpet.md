@@ -41,7 +41,7 @@ Sebidang tembok dan lingkungan yang dapat dipakai untuk saling bersembunyi.
 
 ### Video
 
-{% youtube "https://www.youtube.com/watch?v=AdiDwP4wcbI" %}
+-
 
 ### Variasi / Nama lain
 
