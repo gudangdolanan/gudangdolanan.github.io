@@ -4,16 +4,28 @@ layout: default
 
 <div class="home">
 
-  {{ content }}
-
   <ul class="post-list">
-    {% for post in site.posts %}
-      <li class="" style="background: gray url('{{ post.image}}') no-repeat center">
+    {% for post in paginator.posts %}
+      <li class="" style="background: gray url('/{{ post.image}}') no-repeat center">
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
       </li>
     {% endfor %}
   </ul>
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Sebelumnya - </a>
+    {% else %}
+      <span class="previous"></span>
+    {% endif %}
+    <span class="page_number "> Halaman ke {{ paginator.page }} dari {{ paginator.total_pages }} </span>
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next"> - Selanjutnya</a>
+    {% else %}
+      <span class="next "></span>
+    {% endif %}
+  </div>
 
 </div>
